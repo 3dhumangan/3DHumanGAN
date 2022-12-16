@@ -10,7 +10,7 @@
 ## TODOs
 - [x] Release technical report.
 - [ ] Release code and pretrained models.
-- [ ] Implement huggingface demos.
+- [ ] Implement Hugging Face demos.
 - [ ] Implement EG3D backend.
 
 ## Citation
