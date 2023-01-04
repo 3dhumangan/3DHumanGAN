@@ -13,7 +13,7 @@
 - [ ] Implement huggingface demos.
 - [ ] Implement EG3D backend.
 
-## Related Works
+## Related Work
 * (ECCV 2022) **StyleGAN-Human: A Data-Centric Odyssey of Human Generation**, Jianglin Fu et al. [[Paper](https://arxiv.org/pdf/2204.11823.pdf)], [[Project Page](https://stylegan-human.github.io/)], [[Dataset](https://github.com/stylegan-human/StyleGAN-Human)]
 
 ## Citation
